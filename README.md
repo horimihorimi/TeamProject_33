@@ -1,6 +1,6 @@
 # TeamProject_33
 
-![담당 기능 시연](docs/images/33_Preview.gif)
+![담당 기능 시연](.github/assets/33_Preview.gif)
 
 - Unreal Engine 5.3 기반의 Clair Obscur: Expedition 33 모작 프로젝트입니다. 학습을 목적으로 진행한 팀 프로젝트이며, 사용된 일부 에셋은 본 저장소에 포함되어 있지 않습니다.
 - 본 저장소에는 원본 프로젝트에서 제가 직접 작성한 코드만 포함되어 있으며, 해당 코드는 `Workspace/KHB`에 정리되어 있습니다.
